@@ -1,0 +1,13 @@
+curl worked on first try, no flags added...
+
+curl installed with:
+
+sudo docker start looper-it
+
+sudo docker exec -it looper-it bash
+
+apt update
+
+apt upgrade
+
+apt install curl

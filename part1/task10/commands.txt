@@ -1,0 +1,2 @@
+sudo docker build -t frontti .
+sudo docker run -p 5000:5000 frontti

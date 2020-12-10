@@ -1,0 +1,4 @@
+
+sudo docker build -t curler .
+
+sudo docker run --interactive curler

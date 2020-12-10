@@ -1,0 +1,4 @@
+description: the image contains all tools and libraries needed to create 
+react/nodejs apps and run them.
+
+docker hub url: https://hub.docker.com/repository/docker/korolainenriikka/nodejs
