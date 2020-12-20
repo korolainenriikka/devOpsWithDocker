@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+
+ first-docker-compose:
+  image: <devopsdockeruh>/<first-volume-exercise>
+  build: .
+  volumes:
+   - ./logs.txt:/usr/app/logs.txt
+  container_name: first-docker-compose
